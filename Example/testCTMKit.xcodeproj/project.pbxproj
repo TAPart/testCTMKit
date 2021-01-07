@@ -65,7 +65,7 @@
 		C3D1DF068ADD659E077EF17E /* Pods-testCTMKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testCTMKit_Example.release.xcconfig"; path = "Target Support Files/Pods-testCTMKit_Example/Pods-testCTMKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		CE7C9D1B3C1F49D5373F76A6 /* Pods_testCTMKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testCTMKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1646CE709CF7DB332A7141F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		D9D709BD8516EF8662A67FFF /* testCTMKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = testCTMKit.podspec; path = ../testCTMKit.podspec; sourceTree = "<group>"; };
+		D9D709BD8516EF8662A67FFF /* testCTMKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = testCTMKit.podspec; path = ../testCTMKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FFBBDFE0024342720DF07B77 /* Pods_testCTMKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testCTMKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

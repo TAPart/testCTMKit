@@ -9,9 +9,14 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+typedef void(^ResultBlock)(BOOL isLike);
+
+
 @interface CTMTestClass : NSObject
 
 + (void)testCTM;
++ (UIViewController *)personPreferenceWithRemind:(NSString *)remind resultBlock:(ResultBlock)block;
+
 
 @end
 
