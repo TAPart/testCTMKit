@@ -7,6 +7,7 @@
 //
 
 #import "TEViewController.h"
+#import <testCTMKit/CTMTestClass.h>
 
 @interface TEViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [CTMTestClass testCTM];
 }
 
 - (void)didReceiveMemoryWarning

@@ -1,0 +1,23 @@
+PODS:
+  - CTMediator (44)
+  - testCTMKit (1):
+    - CTMediator
+
+DEPENDENCIES:
+  - testCTMKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  testCTMKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 933dba523da87bf875e4a7e8728945fbc512f1d2
+  testCTMKit: 8273011920836288eafbb2fe65055d75d91319b0
+
+PODFILE CHECKSUM: b4b82251946a4104db265a8ab4ad6835f6ef0e1a
+
+COCOAPODS: 1.10.0
